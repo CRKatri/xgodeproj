@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/urfave/cli"
-	"github.com/mpon/xgodeproj/command"
+	"github.com/CRKatri/xgodeproj/command"
 )
 
 // GlobalFlags that uses cli flags
