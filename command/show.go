@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/urfave/cli"
-	"github.com/mpon/xgodeproj/pbxproj"
+	"github.com/CRKatri/xgodeproj/pbxproj"
 )
 
 // CmdShow for print sections
